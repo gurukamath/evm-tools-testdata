@@ -1,0 +1,28 @@
+{
+    "t8n/fixtures/expected/7/HomesteadToDaoAt5.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/7/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/7/env.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/7/txs.json",
+            "--state.fork",
+            "HomesteadToDaoAt5"
+        ]
+    },
+    "t8n/fixtures/expected/102/London_on_fork.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/102/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/102/env_on_fork.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/102/txs.json",
+            "--state.fork",
+            "BerlinToLondonAt5"
+        ]
+    }
+}
