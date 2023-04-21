@@ -1,0 +1,52 @@
+{
+    "b11r/fixtures/expected/20/exp.json": {
+        "args": [
+            "b11r",
+            "--input.header",
+            "__BASEDIR__/b11r/fixtures/testdata/20/header.json",
+            "--input.ommers",
+            "__BASEDIR__/b11r/fixtures/testdata/20/ommers.json",
+            "--input.txs",
+            "__BASEDIR__/b11r/fixtures/testdata/20/txs.rlp"
+        ],
+        "success": true
+    },
+    "b11r/fixtures/expected/27/exp.json": {
+        "args": [
+            "b11r",
+            "--input.header",
+            "__BASEDIR__/b11r/fixtures/testdata/27/header.json",
+            "--input.ommers",
+            "__BASEDIR__/b11r/fixtures/testdata/27/ommers.json",
+            "--input.txs",
+            "__BASEDIR__/b11r/fixtures/testdata/27/txs.rlp",
+            "--input.withdrawals",
+            "__BASEDIR__/b11r/fixtures/testdata/27/withdrawals.json"
+        ],
+        "success": true
+    },
+    "b11r/fixtures/expected/21/exp.json": {
+        "args": [
+            "b11r",
+            "--input.header",
+            "__BASEDIR__/b11r/fixtures/testdata/21/header.json",
+            "--input.ommers",
+            "__BASEDIR__/b11r/fixtures/testdata/21/ommers.json",
+            "--input.txs",
+            "__BASEDIR__/b11r/fixtures/testdata/21/txs.rlp"
+        ],
+        "success": true
+    },
+    "b11r/fixtures/expected/22/exp.json": {
+        "args": [
+            "b11r",
+            "--input.header",
+            "__BASEDIR__/b11r/fixtures/testdata/22/header.json",
+            "--input.ommers",
+            "__BASEDIR__/b11r/fixtures/testdata/22/ommers.json",
+            "--input.txs",
+            "__BASEDIR__/b11r/fixtures/testdata/22/txs.rlp"
+        ],
+        "success": true
+    }
+}
