@@ -34,5 +34,6 @@
         "currentDifficulty": "0x20000",
         "gasUsed": "0x5208",
         "currentBaseFee": "0x460"
-    }
+    },
+    "txs_rlp": "0xf865f86381ac820600830186a0948a8eafb1cf62bfbeb1741769dae1a9dd47996192018025a028385fb95ee69ec09339adf1b1a3f92a62dd617e42e5f47b7ebe51b68df5e832a04439c7d03a63dcb9a33fe3aa2da546d70536be7e32bb49dfb398528c471fdd3b"
 }

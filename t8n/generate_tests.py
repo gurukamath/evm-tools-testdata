@@ -118,6 +118,7 @@ def main() -> None:
 
         output_file_alloc = output_file.replace(".json", "_alloc.json")
         output_file_result = output_file.replace(".json", "_result.json")
+        output_file_body = output_file.replace(".json", "_txs.rlp")
         output_dir = os.path.dirname(output_file)
 
         if not os.path.exists(output_dir):
@@ -128,6 +129,8 @@ def main() -> None:
             output_file_alloc,
             "--output.result",
             output_file_result,
+            "--output.body",
+            output_file_body,
         ]
 
         # Run subprocess hide the output and capture only the error
@@ -154,15 +157,20 @@ def main() -> None:
         with open(output_file_result, "r") as f:
             result = json.load(f)
 
+        with open(output_file_body, "r") as f:
+            body = f.read()
+
         output = {}
         output["alloc"] = alloc
         output["result"] = result
+        output["txs_rlp"] = body[1:-1]
 
         with open(output_file, "w") as f:
             json.dump(output, f, indent=4)
 
         os.remove(output_file_alloc)
         os.remove(output_file_result)
+        os.remove(output_file_body)
 
     with open(commands_path, "w") as f:
         json.dump(cmds, f, indent=4)

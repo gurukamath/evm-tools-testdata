@@ -17,5 +17,6 @@
         "receipts": [],
         "currentDifficulty": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffff020000",
         "gasUsed": "0x0"
-    }
+    },
+    "txs_rlp": "0xc0"
 }

@@ -18,5 +18,6 @@
         "currentDifficulty": "0x2000000001000",
         "gasUsed": "0x0",
         "currentBaseFee": "0x500"
-    }
+    },
+    "txs_rlp": "0xc0"
 }

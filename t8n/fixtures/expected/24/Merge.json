@@ -50,5 +50,6 @@
         "currentDifficulty": null,
         "gasUsed": "0x10306",
         "currentBaseFee": "0x500"
-    }
+    },
+    "txs_rlp": "0xf8caf86381ac820600830186a0948a8eafb1cf62bfbeb1741769dae1a9dd47996192018025a028385fb95ee69ec09339adf1b1a3f92a62dd617e42e5f47b7ebe51b68df5e832a04439c7d03a63dcb9a33fe3aa2da546d70536be7e32bb49dfb398528c471fdd3bf86381ad820600830186a0948a8eafb1cf62bfbeb1741769dae1a9dd47996192018026a09c9ba4d9a44b79aa215efae2db8e52ee5b33fcbc96beaf8aa4eb51d6272bbb31a051498adab20ef1a21218cc1b28ce61dfb95aeca8b75e6aa0bb6b7efad3cef073"
 }

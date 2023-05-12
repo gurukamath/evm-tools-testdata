@@ -33,5 +33,6 @@
         ],
         "currentDifficulty": "0x20000",
         "gasUsed": "0x5208"
-    }
+    },
+    "txs_rlp": "0xf865f86381ac820600830186a0948a8eafb1cf62bfbeb1741769dae1a9dd4799619201801ba08ff8f6e052f0fddce910dba133f5695fa7cc846a0ff532cedc40ac882a089eefa02979a8eeb4ef1316abffc394ce7cb0f302a13bf99dbd7b2788667dafe9ae5500"
 }
