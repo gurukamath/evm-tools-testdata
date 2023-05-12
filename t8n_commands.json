@@ -4170,5 +4170,61 @@
             "BerlinToLondonAt5"
         ],
         "success": true
+    },
+    "t8n/fixtures/expected/13/London_txs_rlp.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/13/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/13/env.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/13/signed_txs.rlp",
+            "--state.fork",
+            "London"
+        ],
+        "success": true
+    },
+    "t8n/fixtures/expected/9/London_txs_rlp.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/9/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/9/env.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/9/signed_txs.rlp",
+            "--state.fork",
+            "London"
+        ],
+        "success": true
+    },
+    "t8n/fixtures/expected/8/Berlin_txs_rlp.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/8/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/8/env.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/8/signed_txs.rlp",
+            "--state.fork",
+            "Berlin"
+        ],
+        "success": true
+    },
+    "t8n/fixtures/expected/2/Byzantium_txs_rlp.json": {
+        "args": [
+            "t8n",
+            "--input.alloc",
+            "__BASEDIR__/t8n/fixtures/testdata/2/alloc.json",
+            "--input.env",
+            "__BASEDIR__/t8n/fixtures/testdata/2/env.json",
+            "--input.txs",
+            "__BASEDIR__/t8n/fixtures/testdata/2/signed_txs.rlp",
+            "--state.fork",
+            "Byzantium"
+        ],
+        "success": true
     }
 }
