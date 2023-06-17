@@ -69,7 +69,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/102/Constantinople.json": {
+    "t8n/fixtures/expected/102/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -79,7 +79,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/102/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -265,7 +265,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/9/Constantinople.json": {
+    "t8n/fixtures/expected/9/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -275,7 +275,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/9/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -461,7 +461,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/11/Constantinople.json": {
+    "t8n/fixtures/expected/11/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -471,7 +471,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/11/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -657,7 +657,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/7/Constantinople.json": {
+    "t8n/fixtures/expected/7/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -667,7 +667,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/7/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -853,7 +853,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/1/Constantinople.json": {
+    "t8n/fixtures/expected/1/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -863,7 +863,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/1/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -1049,7 +1049,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/10/Constantinople.json": {
+    "t8n/fixtures/expected/10/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -1059,7 +1059,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/10/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -1245,7 +1245,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/19/Constantinople.json": {
+    "t8n/fixtures/expected/19/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -1255,7 +1255,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/19/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -1441,7 +1441,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/26/Constantinople.json": {
+    "t8n/fixtures/expected/26/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -1451,7 +1451,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/26/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -1637,7 +1637,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/8/Constantinople.json": {
+    "t8n/fixtures/expected/8/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -1647,7 +1647,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/8/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -1833,7 +1833,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/100/Constantinople.json": {
+    "t8n/fixtures/expected/100/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -1843,7 +1843,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/100/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -2029,7 +2029,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/101/Constantinople.json": {
+    "t8n/fixtures/expected/101/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -2039,7 +2039,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/101/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -2225,7 +2225,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/24/Constantinople.json": {
+    "t8n/fixtures/expected/24/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -2235,7 +2235,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/24/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -2421,7 +2421,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/23/Constantinople.json": {
+    "t8n/fixtures/expected/23/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -2431,7 +2431,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/23/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -2617,7 +2617,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/4/Constantinople.json": {
+    "t8n/fixtures/expected/4/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -2627,7 +2627,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/4/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -2813,7 +2813,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/3/Constantinople.json": {
+    "t8n/fixtures/expected/3/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -2823,7 +2823,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/3/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -3009,7 +3009,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/12/Constantinople.json": {
+    "t8n/fixtures/expected/12/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -3019,7 +3019,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/12/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -3205,7 +3205,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/2/Constantinople.json": {
+    "t8n/fixtures/expected/2/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -3215,7 +3215,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/2/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -3401,7 +3401,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/13/Constantinople.json": {
+    "t8n/fixtures/expected/13/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -3411,7 +3411,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/13/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },
@@ -3607,7 +3607,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/5/Constantinople.json": {
+    "t8n/fixtures/expected/5/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -3617,7 +3617,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/5/txs.json",
             "--state.fork",
-            "Constantinople",
+            "ConstantinopleFix",
             "--state.reward",
             "128"
         ],
@@ -3821,7 +3821,7 @@
         ],
         "success": true
     },
-    "t8n/fixtures/expected/14/Constantinople.json": {
+    "t8n/fixtures/expected/14/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -3831,7 +3831,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/14/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": true
     },
@@ -4017,7 +4017,7 @@
         ],
         "success": false
     },
-    "t8n/fixtures/expected/25/Constantinople.json": {
+    "t8n/fixtures/expected/25/ConstantinopleFix.json": {
         "args": [
             "t8n",
             "--input.alloc",
@@ -4027,7 +4027,7 @@
             "--input.txs",
             "__BASEDIR__/t8n/fixtures/testdata/25/txs.json",
             "--state.fork",
-            "Constantinople"
+            "ConstantinopleFix"
         ],
         "success": false
     },

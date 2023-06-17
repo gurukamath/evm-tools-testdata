@@ -15,7 +15,7 @@ forks = [
     "EIP150",
     "EIP158",
     "Byzantium",
-    "Constantinople",
+    "ConstantinopleFix",
     "Istanbul",
     "MuirGlacier",
     "Berlin",
