@@ -144,8 +144,8 @@ def main() -> None:
                 "\n",
                 subproc_run.stderr.decode("utf-8").replace("\n", ""),
             )
-            parameters["success"] = False
-            cmds[output_file] = deepcopy(parameters)
+            # parameters["success"] = False
+            # cmds[output_file] = deepcopy(parameters)
             continue
 
         parameters["success"] = True
